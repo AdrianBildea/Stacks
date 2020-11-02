@@ -1,2 +1,2 @@
 # Stack
-Stack made in Unity
+An android game like Stack made in Unity
